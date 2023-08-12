@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<div align="center" >
+<div align="left" >
 
 <a href="https://instagram.com/mrengineeruniverse">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
