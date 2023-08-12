@@ -115,9 +115,19 @@ Here are some ideas to get you started:
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://github.com/mrengineer0510'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+<div align="center" >
 
-<a href = 'https://www.linkedin.com/in/nikhil-kumar-2b9842202/'> <img width = '32px' align= 'center' src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>
+<a href="https://instagram.com/mrengineeruniverse">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-2b9842202/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+<a href="https://twitter.com/1002k20">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
+</a>
+
+</div>
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
