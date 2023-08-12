@@ -124,12 +124,7 @@ Here are some ideas to get you started:
 <h2> My Coding Streaks <img src="https://github.com/mrengineer0510/HealCloud/blob/main/image/giphy.gif?raw=true" alt="mrengineer0510"  width = '70px' /></h2>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrengineer0510&theme=tokyonight" alt="mrengineer0510" /></p>
 
-<h2> My Contribution <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=mrengineer0510&custom_title=mrengineer0510's%20Contribution%20Graph&theme=react-dark" alt="mrengineer0510"  /></p>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/mrengineer-0510?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 
 <h2> My Git profile Trophies <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
